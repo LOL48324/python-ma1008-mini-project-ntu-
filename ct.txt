@@ -1,0 +1,27 @@
+XY coordinates for Figure1
+
+  first   40           50                line
+     -70             90             line
+     -90             70             curve
+     -60             50             curve
+     0             -90             curve
+     80             -30             line
+     40           50                line
+ last
+XY coordinates for Figure2
+
+  first   -10           -10                line
+     -100             -140             line
+     -10             -140             line
+     -10           -10                line
+ last
+XY coordinates for Figure3
+
+  first   0           0                line
+     60             100             line
+     300             -10             line
+     10             20             curve
+     50             40             curve
+     100             10             curve
+     0           0                line
+ last
